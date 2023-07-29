@@ -1,1 +1,1 @@
-This project is about 0x02. AirBnB clone - MySQL
+This project is about 0x05. AirBnB clone - RESTful API
